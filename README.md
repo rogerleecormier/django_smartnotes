@@ -1,3 +1,3 @@
 # django_smartnotes
 
-Notes application developed using the [Django Essential Training](https://www.linkedin.com/learning/django-essential-training/what-is-django) on LinkedIn Learning.
+Notes application developed using the [Django: Forms](https://www.linkedin.com/learning/django-forms/deep-dive-into-django-forms) on LinkedIn Learning.
